@@ -1,0 +1,1152 @@
+Cream of Mushroom
+point 1
+
+point 2
+Cream of Mushroom
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Stella Pitcher (1 ltr)
+point 1
+
+point 2
+Stella Pitcher (1 ltr)
+point 1
+
+point 2
+Stella Pitcher (1 ltr)
+point 1
+
+point 2
+
+point 1
+
+point 2
+Hot N Sour Soup (Vegetables)
+point 1
+
+point 2
+Thai Noodle Soup (Vegetables)
+point 1
+
+point 2
+Cream of Tomato (Chicken)
+point 1
+
+point 2
+Cream of Tomato (Chicken)
+point 1
+
+point 2
+Hot N Sour Soup (Chicken)
+point 1
+
+point 2
+Cream of Tomato (Chicken)
+point 1
+
+point 2
+Cream of Tomato (Vegetables)
+point 1
+
+point 2
+Stella Tower (2.5l)
+point 1
+
+point 2
+
+point 1
+
+point 2
+Chunky Italian Minestrone (Vegetables)
+point 1
+
+point 2
+Cream of Tomato (Vegetables)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Hot N Sour Soup (Vegetables)
+point 1
+
+point 2
+
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1Chunky Italian Minestrone (Vegetables)
+point 1
+
+point 2
+Heineken Glass
+point 1
+
+point 2
+
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1Hot N Sour Soup (Chicken)
+point 1
+
+point 2
+Hoegaarden Tower (2.5l)
+point 1
+
+point 2
+Hoegaarden Tower (2.5l)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Heineken Glass
+point 1
+
+point 2
+
+point 1
+
+point 2
+Heineken Tower (2.5l)
+point 1
+
+point 2
+
+point 1
+
+point 2
+Thai Noodle Soup (Chicken)
+point 1
+
+point 2
+Thai Noodle Soup (Chicken)
+point 1
+
+point 2
+Cream of Tomato (Vegetables)
+point 1
+
+point 2
+Cream of Tomato (Vegetables)
+point 1
+
+point 2
+Cream of Tomato (Vegetables)
+point 1
+
+point 2
+Thai Noodle Soup (Chicken)
+point 1
+
+point 2
+Hoegaarden Pitcher (1 ltr)
+point 1
+
+point 2
+Hoegaarden Pitcher (1 ltr)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Cream of Mushroom
+point 1
+
+point 2
+Hot N Sour Soup (Chicken)
+point 1
+
+point 2
+Cream of Tomato (Vegetables)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Cream of Tomato (Vegetables)
+point 1
+
+point 2
+Chunky Italian Minestrone (Vegetables)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Heineken Pitcher (1 ltr)
+point 1
+
+point 2
+Heineken Tower (2.5l)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Hoegaarden Pitcher (1 ltr)
+point 1
+
+point 2
+Heineken Pitcher (1 ltr)
+point 1
+
+point 2
+
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1Cream of Mushroom
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and item_name like 'Cream of Mushroom'' at line 1Cream of Mushroom
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and item_name like 'Cream of Mushroom'' at line 1Cream of Mushroom
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and item_name like 'Cream of Mushroom'' at line 1Cream of Mushroom
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and item_name like 'Cream of Mushroom'' at line 1Cream of Mushroom
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and item_name like 'Cream of Mushroom'' at line 1Cream of Mushroom
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and item_name like 'Cream of Mushroom'' at line 1Cream of Mushroom
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and item_name like 'Cream of Mushroom'' at line 1Cream of Mushroom
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and item_name like 'Cream of Mushroom'' at line 1
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1Hoegaarden Pitcher (1 ltr)
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and item_name like 'Hoegaarden Pitcher (1 ltr)'' at line 1
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', , , )' at line 1
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+point 1
+
+point 2
+Hot N Sour Soup (Vegetables)
+point 1
+
+point 2
+Hot N Sour Soup (Vegetables)
+point 1
+
+point 2
+Hot N Sour Soup (Vegetables)
+point 1
+
+point 2
+Hot N Sour Soup (Vegetables)
+point 1
+
+point 2
+Hoegaarden Pitcher (1 ltr)
+point 1
+
+point 2
+Hoegaarden Pitcher (1 ltr)
+point 1
+
+point 2
+Hoegaarden Pitcher (1 ltr)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where item_name like ''' at line 1
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where item_name like ''' at line 1
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', amount =  where table_no =  and item_name like ''' at line 1
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', amount = price_per_item *  where table_no =  and item_name like ''' at line 1
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', , , )' at line 1
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', , , )' at line 1Hopper (Imported)
+point 1
+
+point 2
+Hopper (Imported)
+point 1
+
+point 2
+Witty Bro (Imported)
+point 1
+
+point 2
+Bira 91 White Tower (2.5 ltr)
+point 1
+
+point 2
+Bira 91 White Pitcher (1 ltr)
+point 1
+
+point 2
+Bira 91 White Pitcher (1 ltr)
+point 1
+
+point 2
+Bira 91 White Pitcher (1 ltr)
+point 1
+
+point 2
+Heineken
+point 1
+
+point 2
+Heineken
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Heineken
+point 1
+
+point 2
+Heineken
+point 1
+
+point 2
+Heineken Tower (2.5l)
+point 1
+
+point 2
+Cream of Tomato (Chicken)
+point 1
+
+point 2
+Cream of Tomato (Vegetables)
+point 1
+
+point 2
+Cream of Mushroom
+point 1
+
+point 2
+Stella
+point 1
+
+point 2
+Heineken
+point 1
+
+point 2
+Hoegaarden
+point 1
+
+point 2
+Heineken
+point 1
+
+point 2
+Hoegaarden
+point 1
+
+point 2
+Stella
+point 1
+
+point 2
+Heineken Tower (2.5l)
+point 1
+
+point 2
+Thai Noodle Soup (Vegetables)
+point 1
+
+point 2
+Chunky Italian Minestrone (Vegetables)
+point 1
+
+point 2
+Thai Noodle Soup (Vegetables)
+point 1
+
+point 2
+Thai Noodle Soup (Chicken)
+point 1
+
+point 2
+Thai Noodle Soup (Chicken)
+point 1
+
+point 2
+Thai Noodle Soup (Chicken)
+point 1
+
+point 2
+Kronenbourg 1664
+point 1
+
+point 2
+Kronenbourg 1664
+point 1
+
+point 2
+Kronenbourg 1664
+point 1
+
+point 2
+Buho (Imported) Tower (2.5 ltr) Strong
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Breezer (Ask for flavours)
+point 1
+
+point 2
+Bacardi Plus (Ask for flavours)
+point 1
+
+point 2
+Bacardi Plus (Ask for flavours)
+point 1
+
+point 2
+Bacardi Plus (Ask for flavours)
+point 1
+
+point 2
+Bacardi Plus (Ask for flavours)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Chunky Italian Minestrone (Vegetables)
+point 1
+
+point 2
+Chunky Italian Minestrone (Vegetables)
+point 1
+
+point 2
+Chunky Italian Minestrone (Vegetables)
+point 1
+
+point 2
+Hopper (Imported)
+point 1
+
+point 2
+Hopper (Imported)
+point 1
+
+point 2
+Buho (Imported) Tower (2.5 ltr) Strong
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Stella Tower (2.5l)
+point 1
+
+point 2
+Hoegaarden Glass
+point 1
+
+point 2
+Hoegaarden Pitcher (1 ltr)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Chunky Italian Minestrone (Chicken)
+point 1
+
+point 2
+Chunky Italian Minestrone (Chicken)
+point 1
+
+point 2
+Chunky Italian Minestrone (Chicken)
+point 1
+
+point 2
+Chunky Italian Minestrone (Chicken)
+point 1
+
+point 2
+Cream of Tomato (Chicken)
+point 1
+
+point 2
+Cream of Tomato (Chicken)
+point 1
+
+point 2
+Cream of Tomato (Chicken)
+point 1
+
+point 2
+Cream of Tomato (Chicken)
+point 1
+
+point 2
+Thai Noodle Soup (Chicken)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Cream of Tomato (Chicken)
+point 1
+
+point 2
+Thai Noodle Soup (Chicken)
+point 1
+
+point 2
+Chunky Italian Minestrone (Chicken)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Cream of Tomato (Chicken)
+point 1
+
+point 2
+Glenfiddich 12 yrs 23/25 Shots
+point 1
+
+point 2
+Glenmorangie 4 Shots
+point 1
+
+point 2
+Thai Noodle Soup (Chicken)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Heineken Pitcher (1 ltr)
+point 1
+
+point 2
+
+point 1
+
+point 2
+Stella Tower (2.5l)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Kingfisher Ultra Pitcher (1 ltr)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Glenfiddich 12 yrs 23/25 Shots
+point 1
+
+point 2
+Chunky Italian Minestrone (Chicken)
+point 1
+
+point 2
+Chunky Italian Minestrone (Chicken)
+point 1
+
+point 2
+Thai Noodle Soup (Chicken)
+point 1
+
+point 2
+Chunky Italian Minestrone (Chicken)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Thai Noodle Soup (Vegetables)
+point 1
+
+point 2
+Thai Noodle Soup (Vegetables)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Bira 91 White Pitcher (1 ltr)
+point 1
+
+point 2
+Ultra Max Pitcher (1 ltr)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Chunky Italian Minestrone (Vegetables)
+point 1
+
+point 2
+Chunky Italian Minestrone (Vegetables)
+point 1
+
+point 2
+Thai Noodle Soup (Chicken)
+point 1
+
+point 2
+Thai Noodle Soup (Chicken)
+point 1
+
+point 2
+Johnnie Walker Black Label 4 Shots
+point 1
+
+point 2
+Johnnie Walker Black Label 4 Shots
+point 1
+
+point 2
+Chivas Regal(15 yrs) 1 Shot
+point 1
+
+point 2
+Johnnie Walker Blue Label 1 Shot
+point 1
+
+point 2
+Glenmorangie 23/25 Shots
+point 1
+
+point 2
+Gordons 25 Shots
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+White Rhino
+point 1
+
+point 2
+White Rhino
+point 1
+White Rhino
+point 1
+
+point 2
+
+point 2
+Buho (Belgian Lager)
+point 1
+
+point 2
+Buho (Belgian Lager)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+White Rhino
+point 1
+
+point 2
+White Rhino
+point 1
+
+point 2
+White Rhino
+point 1
+
+point 2
+Cream of Tomato (Vegetables)
+point 1
+
+point 2
+Chivas Regal(15 yrs) 1 Shot
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Buho (Belgian Lager)
+point 1
+
+point 2
+White Rhino
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Hoegaarden Tower (2.5l)
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+Martell Vs
+point 1
+
+point 2
+Martell Vs
+point 1
+
+point 2
+Cream of Mushroom
+point 1
+
+point 2
+Cream of Mushroom
+point 1
+
+point 2
+Cream of Mushroom
+point 1
+
+point 2
+Cream of Mushroom
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2
+
+point 1
+
+point 2

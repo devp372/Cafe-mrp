@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Abhi" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82dba5ea-a223-408c-96f2-4789e9618f31" name="Default Changelist" comment="Dropdown table selector">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liqueurs.html" beforeDir="false" afterPath="$PROJECT_DIR$/liqueurs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_menu.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cFEWzbIgvgJEl6yAoEucIJwPeA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="database.data.extractors.current.id" value="Excel (xlsx)" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.3.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/php" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fonts" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82dba5ea-a223-408c-96f2-4789e9618f31" name="Default Changelist" comment="" />
+      <created>1590115976182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590115976182</updated>
+      <workItem from="1590147529430" duration="6641000" />
+      <workItem from="1590296620643" duration="10215000" />
+      <workItem from="1590845941460" duration="395000" />
+      <workItem from="1590846468254" duration="373000" />
+      <workItem from="1590847879295" duration="4608000" />
+      <workItem from="1590909360611" duration="13753000" />
+      <workItem from="1591120456615" duration="253000" />
+      <workItem from="1591187011087" duration="18453000" />
+      <workItem from="1591807503270" duration="214000" />
+      <workItem from="1591808049636" duration="29739000" />
+      <workItem from="1592005437860" duration="17049000" />
+      <workItem from="1592100842052" duration="33007000" />
+      <workItem from="1592946475440" duration="69000" />
+      <workItem from="1593033722603" duration="26395000" />
+      <workItem from="1593462498612" duration="14276000" />
+      <workItem from="1593529593604" duration="5792000" />
+      <workItem from="1593561300302" duration="10624000" />
+      <workItem from="1593749366721" duration="1267000" />
+      <workItem from="1594980240363" duration="3806000" />
+      <workItem from="1595014018766" duration="2759000" />
+    </task>
+    <task id="LOCAL-00028" summary="Now saves order to display_orders as well.">
+      <created>1590761999083</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1590761999083</updated>
+    </task>
+    <task id="LOCAL-00029" summary="checkout total same tab fixed">
+      <created>1590771283052</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1590771283052</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Table clear page made but not auto refreshing.">
+      <created>1590836511290</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1590836511290</updated>
+    </task>
+    <task id="LOCAL-00031" summary="auto refresh working.&#10;All databases reset.">
+      <created>1590837348044</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1590837348044</updated>
+    </task>
+    <task id="LOCAL-00032" summary="whiskey_man.html made">
+      <created>1590849802827</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1590849802827</updated>
+    </task>
+    <task id="LOCAL-00033" summary="pitcher_tower_man.html made">
+      <created>1590850280377</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1590850280377</updated>
+    </task>
+    <task id="LOCAL-00034" summary="man pages up to date">
+      <created>1590851798561</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1590851798561</updated>
+    </task>
+    <task id="LOCAL-00035" summary="iced_tea_man.html done">
+      <created>1590910379680</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1590910379680</updated>
+    </task>
+    <task id="LOCAL-00036" summary="liqueurs_man.html done">
+      <created>1590910670171</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1590910670171</updated>
+    </task>
+    <task id="LOCAL-00037" summary="quenchers_man.html and rum_brandy_man.html done.">
+      <created>1590934592635</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1590934592635</updated>
+    </task>
+    <task id="LOCAL-00038" summary="shakes_man.html done">
+      <created>1590935046111</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1590935046111</updated>
+    </task>
+    <task id="LOCAL-00039" summary="cocktails example done">
+      <created>1590938470999</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1590938470999</updated>
+    </task>
+    <task id="LOCAL-00040" summary="shots_man.html done">
+      <created>1590939306692</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1590939306692</updated>
+    </task>
+    <task id="LOCAL-00041" summary="wines_man.html done">
+      <created>1590940614286</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1590940614286</updated>
+    </task>
+    <task id="LOCAL-00042" summary="wines_man.html done">
+      <created>1591120508933</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1591120508933</updated>
+    </task>
+    <task id="LOCAL-00043" summary="mentions category in data base">
+      <created>1591200936173</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1591200936173</updated>
+    </task>
+    <task id="LOCAL-00044" summary="made the clickable area of + - buttons 10 px wider">
+      <created>1591272714696</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1591272714696</updated>
+    </task>
+    <task id="LOCAL-00045" summary="starters_v.html repaired.">
+      <created>1591808124835</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1591808124835</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Dropdown fixed.">
+      <created>1591813268452</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1591813268452</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Shows taxes">
+      <created>1591823387524</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1591823387524</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Previous order repaired">
+      <created>1591890306284</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1591890306284</updated>
+    </task>
+    <task id="LOCAL-00049" summary="checkout.html repaired">
+      <created>1591919353474</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1591919353474</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Enter button works on index.html">
+      <created>1591977104290</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1591977104306</updated>
+    </task>
+    <task id="LOCAL-00051" summary="main_menu.html redesigned and minor improvements overall">
+      <created>1591989273649</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1591989273650</updated>
+    </task>
+    <task id="LOCAL-00052" summary="collapsible main menu">
+      <created>1592070097352</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1592070097353</updated>
+    </task>
+    <task id="LOCAL-00053" summary="changed back to normal">
+      <created>1592070250856</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1592070250856</updated>
+    </task>
+    <task id="LOCAL-00054" summary="done.html made">
+      <created>1592105710507</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1592105710509</updated>
+    </task>
+    <task id="LOCAL-00055" summary="food man pages completed">
+      <created>1592237569784</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1592237569785</updated>
+    </task>
+    <task id="LOCAL-00056" summary="all man pages done">
+      <created>1592322211175</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1592322211175</updated>
+    </task>
+    <task id="LOCAL-00057" summary="tabbed and header shrinks">
+      <created>1592342910161</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1592342910161</updated>
+    </task>
+    <task id="LOCAL-00058" summary="tabbed and header shrinks to all">
+      <created>1592412295521</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1592412295521</updated>
+    </task>
+    <task id="LOCAL-00059" summary="soups.html repaired">
+      <created>1592412600069</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1592412600069</updated>
+    </task>
+    <task id="LOCAL-00060" summary="every thing repaired">
+      <created>1592416622661</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1592416622661</updated>
+    </task>
+    <task id="LOCAL-00061" summary="add and qty buttons redesigned">
+      <created>1593270633326</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1593270633327</updated>
+    </task>
+    <task id="LOCAL-00062" summary="rounded">
+      <created>1593271947833</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1593271947833</updated>
+    </task>
+    <task id="LOCAL-00063" summary="brings back add button when qty is 0">
+      <created>1593276994780</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1593276994780</updated>
+    </task>
+    <task id="LOCAL-00064" summary="checkout changes">
+      <created>1593303445475</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1593303445475</updated>
+    </task>
+    <task id="LOCAL-00065" summary="unified buttons">
+      <created>1593349275914</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1593349275915</updated>
+    </task>
+    <task id="LOCAL-00066" summary="favicon created and applied to table number page">
+      <created>1593389864603</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1593389864604</updated>
+    </task>
+    <task id="LOCAL-00067" summary="minor aesthetic changes">
+      <created>1593444493794</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1593444493794</updated>
+    </task>
+    <task id="LOCAL-00068" summary="making menu">
+      <created>1593473881616</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1593473881617</updated>
+    </task>
+    <task id="LOCAL-00069" summary="temp menu made and places everywhere">
+      <created>1593478289625</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1593478289626</updated>
+    </task>
+    <task id="LOCAL-00070" summary="fixes">
+      <created>1593479612350</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1593479612350</updated>
+    </task>
+    <task id="LOCAL-00071" summary="dropdown fixed">
+      <created>1593482448543</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1593482448543</updated>
+    </task>
+    <task id="LOCAL-00072" summary="button spacing fixed">
+      <created>1593482809245</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1593482809246</updated>
+    </task>
+    <task id="LOCAL-00073" summary="everything in place">
+      <created>1593484663696</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1593484663696</updated>
+    </task>
+    <task id="LOCAL-00074" summary="cart icon added">
+      <created>1593563514488</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1593563514488</updated>
+    </task>
+    <task id="LOCAL-00075" summary="cart fixed">
+      <created>1593579663339</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1593579663341</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Dropdown table selector">
+      <created>1593633765407</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1593633765408</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="3">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="4">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Abhi" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="tabbed and header shrinks" />
+    <MESSAGE value="tabbed and header shrinks to all" />
+    <MESSAGE value="soups.html repaired" />
+    <MESSAGE value="pasta.html repaired" />
+    <MESSAGE value="rum brandy repaired" />
+    <MESSAGE value="every thing repaired" />
+    <MESSAGE value="main_menu.html header" />
+    <MESSAGE value="All headers and footers improved" />
+    <MESSAGE value="add and qty buttons redesigned" />
+    <MESSAGE value="rounded" />
+    <MESSAGE value="dropdown menus redone" />
+    <MESSAGE value="brings back add button when qty is 0" />
+    <MESSAGE value="checkout changes" />
+    <MESSAGE value="unified buttons" />
+    <MESSAGE value="favicon created and applied to table number page" />
+    <MESSAGE value="minor aesthetic changes" />
+    <MESSAGE value="making menu" />
+    <MESSAGE value="temp menu made and places everywhere" />
+    <MESSAGE value="fixes" />
+    <MESSAGE value="dropdown fixed" />
+    <MESSAGE value="button spacing fixed" />
+    <MESSAGE value="everything in place" />
+    <MESSAGE value="cart icon added" />
+    <MESSAGE value="cart fixed" />
+    <MESSAGE value="Dropdown table selector" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dropdown table selector" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Deployment" timestamp="1590846387976">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Deployment/0.0.1680.1050@0.0.1680.1050" timestamp="1590846387976" />
+    <state x="610" y="269" key="#HTTP_Proxy" timestamp="1590253637319">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="610" y="269" key="#HTTP_Proxy/0.0.1680.1050@0.0.1680.1050" timestamp="1590253637319" />
+    <state x="376" y="395" width="581" height="377" key="#Notifications" timestamp="1590687248000">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="376" y="395" width="581" height="377" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1590687248000" />
+    <state x="189" y="361" key="#SQL_Dialects" timestamp="1590414058428">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="189" y="361" key="#SQL_Dialects/0.0.1680.1050@0.0.1680.1050" timestamp="1590414058428" />
+    <state x="628" y="310" key="#Web_Browsers" timestamp="1590678780634">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="628" y="310" key="#Web_Browsers/0.0.1680.1050@0.0.1680.1050" timestamp="1590678780634" />
+    <state x="556" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593538315082">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="556" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1593538315082" />
+    <state x="556" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1590850716728" />
+    <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593476499986">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1593476499986" />
+    <state x="759" y="441" key="FileChooserDialogImpl" timestamp="1593625415787">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="759" y="441" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1593625415787" />
+    <state width="1126" height="268" key="GridCell.Tab.0.bottom" timestamp="1591917012798">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1126" height="268" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591917012798" />
+    <state width="1126" height="268" key="GridCell.Tab.0.center" timestamp="1591917012793">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1126" height="268" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591917012793" />
+    <state width="1126" height="268" key="GridCell.Tab.0.left" timestamp="1591917012788">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1126" height="268" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591917012788" />
+    <state width="1126" height="268" key="GridCell.Tab.0.right" timestamp="1591917012797">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1126" height="268" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591917012797" />
+    <state x="168" y="94" key="MergeDialog" timestamp="1590909885528">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="168" y="94" key="MergeDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590909885528" />
+    <state x="99" y="399" width="853" height="436" key="MultipleFileMergeDialog" timestamp="1593277128291">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="99" y="399" width="853" height="436" key="MultipleFileMergeDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1593277128291" />
+    <state x="604" y="258" key="NewPhpClassDialog" timestamp="1590412912800">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="604" y="258" key="NewPhpClassDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590412912800" />
+    <state x="659" y="585" key="NewPhpFileDialog" timestamp="1593275227143">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="659" y="585" key="NewPhpFileDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1593275227143" />
+    <state x="341" y="155" key="SettingsEditor" timestamp="1593623224804">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="155" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1593623224804" />
+    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1590847953598" />
+    <state x="570" y="275" width="540" height="524" key="StructurePopup" timestamp="1591888044265">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="570" y="275" width="540" height="524" key="StructurePopup/0.0.1680.1050@0.0.1680.1050" timestamp="1591888044265" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1593478299147">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="377" y="227" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1590326503261" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1593478299147" />
+    <state x="440" y="282" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1590851805988" />
+    <state x="718" y="419" width="346" height="232" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1591888918323">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="718" y="419" width="346" height="232" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1680.1050@0.0.1680.1050" timestamp="1591888918323" />
+    <state x="428" y="187" key="com.intellij.database.dbimport.ImportDialog" timestamp="1590693936269">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="428" y="187" key="com.intellij.database.dbimport.ImportDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590693936269" />
+    <state x="578" y="337" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1591217223425">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="337" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591217223425" />
+    <state x="279" y="353" width="825" height="552" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1593624500872">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="279" y="353" width="825" height="552" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1593624500872" />
+    <state x="0" y="170" width="1345" height="643" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1590437982897">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="0" y="170" width="1345" height="643" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1680.1050@0.0.1680.1050" timestamp="1590437982897" />
+    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592067523198">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="538" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1590335350851" />
+    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1592067523198" />
+    <state x="100" y="100" width="1480" height="850" key="dock-window-1" timestamp="1590688155387">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="dock-window-1/0.23.1680.1027@0.23.1680.1027" timestamp="1590688155387" />
+    <state x="100" y="100" width="1480" height="850" key="dock-window-2" timestamp="1590688155390">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="dock-window-2/0.23.1680.1027@0.23.1680.1027" timestamp="1590688155390" />
+    <state x="635" y="315" width="673" height="735" key="find.popup" timestamp="1593625470373">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="635" y="315" width="673" height="735" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1593625470373" />
+    <state x="543" y="245" key="git4idea.branch.GitSmartOperationDialog" timestamp="1590909869891">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="543" y="245" key="git4idea.branch.GitSmartOperationDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590909869891" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1594986847511">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1594986847511" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f8758f00-d799-44a0-b96b-519fbf145b11" name="cafe-server" url="http://3.23.241.214">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="3.23.241.214" port="22" sshConfigId="cbe2e694-d4dd-4728-be55-98a405705895" sshConfig="ec2-user@3.23.241.214:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

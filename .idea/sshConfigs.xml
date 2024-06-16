@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="3.23.241.214" id="cbe2e694-d4dd-4728-be55-98a405705895" keyPath="$USER_HOME$/Downloads/cafeMRP.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+    </configs>
+  </component>
+</project>
